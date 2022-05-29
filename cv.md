@@ -14,8 +14,9 @@ ___
 [GitHub](https://github.com/panamarova)
 ______
 ## **About Me:**
-### I have a high level of knowledge in the psychology of interpersonal communication and the psychology of management. I am ready to develop new skills and abilities. 
-### I am active, responsible and executive.
+I have a high level of knowledge in the psychology of interpersonal communication and the psychology of management. I am ready to develop new skills and abilities. 
+
+I am active, responsible and executive.
 ______
 ## **Skills and Proficiency:**
 + HTML
