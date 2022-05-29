@@ -9,9 +9,9 @@ ___
 
 ### **Telegram:** @elnarizz
 
-[Facebook](https://www.facebook.com/luda.ponomarova)
+### **[Facebook](https://www.facebook.com/luda.ponomarova)**
 
-[GitHub](https://github.com/panamarova)
+### **[GitHub](https://github.com/panamarova)**
 ______
 ## **About Me:**
 I have a high level of knowledge in the psychology of interpersonal communication and the psychology of management. I am ready to develop new skills and abilities. 
