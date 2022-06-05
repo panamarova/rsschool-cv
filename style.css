@@ -18,6 +18,7 @@ header {
     color: grey;
     text-align: center;
     padding: 0.1em; 
+   
 }
 .navbar {
     display: flex;
@@ -97,6 +98,7 @@ header {
 }
   .profile-image {
     display: block;
+    border-radius: 100%; /* Радиус скругления */
     margin-left: auto;
     margin-right: auto }
 
