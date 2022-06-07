@@ -81,7 +81,7 @@ header {
     border: solid grey;
     padding: 20px;
     margin: 5px 3px 0 auto;
-    color: grey; 
+    color: grey;
 }
   .right-column {
     flex: 66%;
