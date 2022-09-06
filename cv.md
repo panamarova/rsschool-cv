@@ -24,6 +24,7 @@ ______
 + HTML
 + CSS
 + PHP (basic)
++ JS (student)
 ____
 ## **Education:**
 + [Belarusian State University](https://bsu.by/)
